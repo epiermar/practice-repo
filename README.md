@@ -1,4 +1,4 @@
-#this is a readme file
+#readme file
 
 Using markup, I can make words **bold** or *italicized*.
 
