@@ -12,6 +12,6 @@ And ordered lists:
 2. second step
 3. third step
 
-I can insert ' code ' into lines of text, like ' ls '.
+I can insert `code` into lines of text, like `ls`.
 
 I can also include links, like this [one](http://coursera.com)
